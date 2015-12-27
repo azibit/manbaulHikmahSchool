@@ -24,7 +24,7 @@ class HeaderSlider extends React.Component {
         
       </li>
       <li>
-        <img src="img/image9.jpg"/> 
+        <img src="img/iamge8.jpg"/> 
         
       </li>
     </ul>
